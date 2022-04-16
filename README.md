@@ -1,2 +1,2 @@
-# leaing-GITHUB
+# learing-GITHUB
 About Github
